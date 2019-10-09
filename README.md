@@ -1,0 +1,2 @@
+# GoluxHomePage
+Just home page
